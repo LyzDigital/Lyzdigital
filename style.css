@@ -306,10 +306,10 @@ section .title::after{
 /* skills section styling */
 
 .skills .title::after{
-    content: "what i know";
+    content: "what we do now";
 }
 .skills .skills-content .column{
-    width: calc(50% - 30px);
+    width: calc(100% - 0px);
 }
 .skills .skills-content .left .text{
     font-size: 20px;
