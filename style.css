@@ -447,12 +447,17 @@ section .title::after{
     content: "get in touch";
 }
 .contact .contact-content .column{
-    width: calc(50% - 30px);
+    width: calc(50% - 60px);
 }
 .resp-container {
     position: relative;
     padding-left: 1550;
-} 
+}
+.flex {
+    display: flex;}
+.col-right {
+margin-left: 300px;
+}
 .contact .contact-content .text{
     font-size: 20px;
     font-weight: 600;
